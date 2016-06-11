@@ -1,3 +1,7 @@
+
+# 201606011 忽略抓取的文件
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -89,5 +93,3 @@ ENV/
 .ropeproject
 
 
-# 201606011 忽略抓取的文件
-*.txt
