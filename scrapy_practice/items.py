@@ -8,15 +8,6 @@
 import scrapy
 
 
-class OschinaItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    Link = scrapy.Field()
-    LinkText = scrapy.Field()
-    image_urls = scrapy.Field()
-
-
-
 class MeniItem(scrapy.Item):
 
     image_urls = scrapy.Field()

@@ -7,6 +7,10 @@ import scrapy
 from scrapy_practice.items import MeniItem
 
 class ScrapyMeni(scrapy.Spider):
+    """
+    抓取 'http://www.metinfo.cn/demo/res001/342/' 的所有的图片
+    """
+
 
     name = 'meni'
 
