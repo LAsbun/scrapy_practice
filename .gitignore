@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# 201606011 忽略抓取的文件
+.txt
